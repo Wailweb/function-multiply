@@ -1,6 +1,7 @@
 function multiply(number1, number2, number3 ) {
 
-  return number1*number2*number3;
+  var resultMultyply = number1*number2*number3;
+  return resultMultyply*2;
 }
 
 var a = 5;
